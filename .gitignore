@@ -1,0 +1,22 @@
+# Configuration and credentials
+config.py
+certificates/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+.DS_Store
+
+# AWS credentials
+*accessKeys.csv
+*credentials.csv
