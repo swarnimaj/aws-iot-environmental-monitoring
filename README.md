@@ -23,7 +23,7 @@ This project implements a cloud-based IoT system that collects environmental dat
 ## Installation
 
 1. Clone this repository:
-git clone <repository-url>
+git clone http://github.com/swarnimaj/aws-iot-environmental-monitoring
 cd aws-iot-environmental-monitoring
 
 2. Create and activate a virtual environment:
